@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\ЭВМ\Lab3\client\bin\Realease\net8.0\publish\client.exe
-C:\Users\User\Desktop\ЭВМ\Lab3\client\bin\Realease\net8.0\publish\client.dll
-C:\Users\User\Desktop\ЭВМ\Lab3\client\bin\Realease\net8.0\publish\client.deps.json
-C:\Users\User\Desktop\ЭВМ\Lab3\client\bin\Realease\net8.0\publish\client.runtimeconfig.json
-C:\Users\User\Desktop\ЭВМ\Lab3\client\bin\Realease\net8.0\publish\client.pdb
