@@ -1,0 +1,2 @@
+a = 1; b = 2; priority = 3; result = 0,1356528840344437
+a = 2; b = 1; priority = 6; result = -0,13565288403444223
